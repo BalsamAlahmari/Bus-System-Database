@@ -154,7 +154,3 @@ This project demonstrates:
 - Relationship modeling
 
 ---
-
-# 👨‍💻 Authors
-
-Developed as a Database Systems course project.
