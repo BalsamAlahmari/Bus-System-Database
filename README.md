@@ -27,8 +27,7 @@ Bus-System/
 ├── README.md
 ├── BusSystem.sql          # Complete SQL script
 ├── ERD.png
-├── RelationalSchema.png
-└── Documentation.pdf (optional)
+└── RelationalSchema.png
 ```
 
 ---
