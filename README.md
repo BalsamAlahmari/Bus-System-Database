@@ -22,7 +22,7 @@ The project models students, buses, drivers, destinations, administrators, and a
 #  Project Structure
 
 ```
-Bus-System/
+Bus-System-Database/
 │
 ├── README.md
 ├── BusSystem.sql          # Complete SQL script
